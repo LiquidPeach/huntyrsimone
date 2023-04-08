@@ -2,12 +2,16 @@
 layout: default
 ---
 
+<p align="center">
+    <img src="images/LiquidPeach.png" alt="LiquidPeach logo" width="16%" height="8%">
+</p>
+
 ## Hi there
 
 My name is **Simone** and I am ~~a software engineer~~ an aspiring software engineer. I am currently attending UC San Diego as a computer science major.
 
 ## Random Details About Myself
----
+
 ### My favorite movie quote
 > 60% of the time, it works everytime - Anchorman
 
