@@ -1,8 +1,5 @@
 ---
-title: Simone's Webpage
-permalink: /
 layout: default
-image: images/LiquidPeach.png
 ---
 
 ## Hi there
