@@ -1,5 +1,4 @@
 ---
-theme: slate
 title: Simone's Webpage
 permalink: /
 layout: default
